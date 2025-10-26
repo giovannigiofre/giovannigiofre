@@ -4,27 +4,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovanni-giofre)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giofregiovanni16@gmail.com)
 
-## 🚀 About Me
-
-**Expert Data Scientist** at Roche - Global Data and Digital Solutions | Based in Basel, Switzerland 🇨🇭
-
-I'm passionate about leveraging data science and machine learning to drive strategic business decisions. With expertise in financial analytics, predictive modeling, and GenAI solutions, I transform complex data into actionable insights.
-
 ## 💼 Professional Experience
 
 ### 🔬 Roche - Global Data and Digital Solutions
-**Expert Data Scientist** | Basel, Switzerland | Mar 2024 - Present
-
-- 🎯 Co-lead data initiatives within the Global Capital Investment and Real Estate Department
-- 🤖 Built production **LLM-powered AI agents**: RAG-based assistant for Global Engineering guidelines and AI analytics tools
-- 📊 Designed and deployed comprehensive **executive analytics platform** integrating financial, operational, and workforce data for C-suite decision-making
-- 🔮 Developed **predictive ML models** for financial forecasting and risk assessment
-- ⚡ Automated critical processes achieving **80% efficiency gains**
-- 📈 Created real-time business intelligence dashboards with Streamlit/Python
-- 🏆 **Key achievements**:
-  - **Executive Analytics Platform**: Unified financial KPIs across business units
-  - **Performance Scorecard System**: Accelerated decision cycles from 6 months to 2 weeks using Advanced Analytics
-  - **Resource Allocation Engine**: Built optimization system reducing analysis time by 80%
+**Data Scientist** | Basel, Switzerland | Mar 2024 - Present
 
 ## 🎓 Education
 
@@ -49,6 +32,10 @@ I'm passionate about leveraging data science and machine learning to drive strat
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=flat-square&logoColor=white)
+
+**Agentic AI Frameworks**: Experience with LangChain and LangGraph for building LLM-powered applications and multi-agent systems
 
 ### Tools & Platforms
 
@@ -83,31 +70,45 @@ I'm passionate about leveraging data science and machine learning to drive strat
 ## 🔬 Featured Projects
 
 ### 📈 [Energy Production and Sustainability](https://github.com/giovannigiofre/Energy_Production_and_Sustainability-Kaggle_Competition)
+
 Kaggle competition project analyzing solar energy production using meteorological data from solar panels in Braga, Portugal.
+
 - **Tech**: Python, Scikit-learn, Data Science, Jupyter Notebook
 
 ### 🎮 [RL CartPole Q-Network](https://github.com/giovannigiofre/RL_Cartpole_Q-Net)
+
 Reinforcement learning implementation using Q-Network for solving the CartPole balancing problem.
+
 - **Tech**: Python, Reinforcement Learning, Deep Q-Networks, Jupyter Notebook
 
 ### 🎵 [Songs Recommendation System](https://github.com/giovannigiofre/songs_recommendation_system)
+
 Recommendation system project developed for IT coding for Data Science course.
+
 - **Tech**: Python, Machine Learning, Recommendation Systems, Jupyter Notebook
 
 ### 🤖 [Recommendation App](https://github.com/giovannigiofre/recommendation_app)
+
 Python-based recommendation application implementing various recommendation algorithms.
+
 - **Tech**: Python, Machine Learning, Data Science
 
 ### 🧬 [Bioinformatics Intelligent Systems](https://github.com/giovannigiofre/si)
+
 Portfolio project for Intelligent Systems for Bioinformatics course.
+
 - **Tech**: Python, Bioinformatics, Machine Learning, Jupyter Notebook
 
 ### 🐍 [Snake Game](https://github.com/giovannigiofre/snake_game)
+
 Classic Snake game implementation in Python.
+
 - **Tech**: Python, Game Development
 
 ### 🧠 [Neuroimaging in R](https://github.com/giovannigiofre/imaging_in_r)
+
 Neuroimaging analysis and visualization tools in R.
+
 - **Tech**: R, Neuroimaging, Data Visualization
 
 ## 📊 GitHub Stats
