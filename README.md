@@ -13,8 +13,7 @@
 
 **MSc in Applied Data Science for Banking and Finance**
 - Università Cattolica (Brescia, Italy) & Universidade do Minho (Braga, Portugal)
-- Sep 2022 - Apr 2025
-- Focus: Data Analytics for Investment, Quantitative Finance, Business Analytics
+- Focus: Advanced Machine Learning, Quantitative Finance, Reinforcement Learning, Business Analytics
 
 ## 🛠️ Technical Skills
 
@@ -22,7 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -61,25 +59,24 @@
 ## 🔬 Featured Projects
 
 ### 💼 [Lab of Investment Project](https://github.com/ferro9902/Lab_of_Investment_project)
-Collaborative project for the LABORATORY OF DATA ANALYTICS FOR INVESTMENT exam, analyzing financial data and investment strategies.
-- **Tech**: Python, Jupyter Notebook, HTML, Data Analytics
-- **Note**: Collaborative project with ferro9902
+Project based on recreating the strategy and model described in a research paper with different and more up‑to‑date data to test the validity of what is reported in the paper
+- **Tech**: Python, LS-SVM, Time-Series
 
 ### 📈 [Energy Production and Sustainability](https://github.com/giovannigiofre/Energy_Production_and_Sustainability-Kaggle_Competition)
 Kaggle competition project analyzing solar energy production using meteorological data from solar panels in Braga, Portugal.
-- **Tech**: Python, Scikit-learn, Data Science, Jupyter Notebook
+- **Tech**: Python, XGBoost, Feature-Engineering
 
 ### 🎮 [RL CartPole Q-Network](https://github.com/giovannigiofre/RL_Cartpole_Q-Net)
 Reinforcement learning implementation using Q-Network for solving the CartPole balancing problem.
-- **Tech**: Python, Reinforcement Learning, Deep Q-Networks, Jupyter Notebook
+- **Tech**: Python, Reinforcement Learning, Deep Q-Networks
 
 ### 🎵 [Songs Recommendation System](https://github.com/giovannigiofre/songs_recommendation_system)
 Recommendation system project developed for IT coding for Data Science course.
-- **Tech**: Python, Machine Learning, Recommendation Systems, Jupyter Notebook
+- **Tech**: Python, Cosin Similarity, Recommendation Systems
 
 ### 🧬 [Bioinformatics Intelligent Systems](https://github.com/giovannigiofre/si)
 Portfolio project for Intelligent Systems for Bioinformatics course.
-- **Tech**: Python, Bioinformatics, Machine Learning, Jupyter Notebook
+- **Tech**: Python, Bioinformatics, Neural Networks
 
 ### 🐍 [Snake Game](https://github.com/giovannigiofre/snake_game)
 Classic Snake game implementation in Python.
