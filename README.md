@@ -87,12 +87,6 @@ Recommendation system project developed for IT coding for Data Science course.
 
 - **Tech**: Python, Machine Learning, Recommendation Systems, Jupyter Notebook
 
-### 🤖 [Recommendation App](https://github.com/giovannigiofre/recommendation_app)
-
-Python-based recommendation application implementing various recommendation algorithms.
-
-- **Tech**: Python, Machine Learning, Data Science
-
 ### 🧬 [Bioinformatics Intelligent Systems](https://github.com/giovannigiofre/si)
 
 Portfolio project for Intelligent Systems for Bioinformatics course.
@@ -105,28 +99,9 @@ Classic Snake game implementation in Python.
 
 - **Tech**: Python, Game Development
 
-### 🧠 [Neuroimaging in R](https://github.com/giovannigiofre/imaging_in_r)
-
-Neuroimaging analysis and visualization tools in R.
-
-- **Tech**: R, Neuroimaging, Data Visualization
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannigiofre&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigiofre&layout=compact&theme=radical&hide_border=true)
-
-## 💡 What I'm Working On
-
-- 🔭 Currently working on: **GenAI solutions and executive analytics platforms at Roche**
-- 🌱 Currently learning: **Advanced LLM techniques and prompt engineering**
-- 👯 Looking to collaborate on: **Open-source data science and ML projects**
-- 💬 Ask me about: **Data Science, Machine Learning, Financial Analytics, Python, GenAI/LLMs**
-
 ## 📫 How to Reach Me
 
 - 📧 Email: giofregiovanni16@gmail.com
-- 📞 Phone: +39 327 588 3458
 - 💼 LinkedIn: [linkedin.com/in/giovannigiofre](https://linkedin.com/in/giovannigiofre)
 - 🐙 GitHub: [github.com/giovanni-giofre](https://github.com/giovanni-giofre)
 
