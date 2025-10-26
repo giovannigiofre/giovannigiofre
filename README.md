@@ -1,16 +1,105 @@
-## Hi there 👋
+# Hi there, I'm Giovanni Giofré 👋
 
-<!--
-**giovannigiofre/giovannigiofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovannigiofre)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovanni-giofre)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giofregiovanni16@gmail.com)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Expert Data Scientist** at Roche - Global Data and Digital Solutions | Based in Basel, Switzerland 🇨🇭
+
+I'm passionate about leveraging data science and machine learning to drive strategic business decisions. With expertise in financial analytics, predictive modeling, and GenAI solutions, I transform complex data into actionable insights.
+
+## 💼 Professional Experience
+
+### 🔬 Roche - Global Data and Digital Solutions
+**Expert Data Scientist** | Basel, Switzerland | Mar 2024 - Present
+
+- 🎯 Co-lead data initiatives within the Global Capital Investment and Real Estate Department
+- 🤖 Built production **LLM-powered AI agents**: RAG-based assistant for Global Engineering guidelines and AI analytics tools
+- 📊 Designed and deployed comprehensive **executive analytics platform** integrating financial, operational, and workforce data for C-suite decision-making
+- 🔮 Developed **predictive ML models** for financial forecasting and risk assessment
+- ⚡ Automated critical processes achieving **80% efficiency gains**
+- 📈 Created real-time business intelligence dashboards with Streamlit/Python
+- 🏆 **Key achievements**:
+  - **Executive Analytics Platform**: Unified financial KPIs across business units
+  - **Performance Scorecard System**: Accelerated decision cycles from 6 months to 2 weeks using Advanced Analytics
+  - **Resource Allocation Engine**: Built optimization system reducing analysis time by 80%
+
+## 🎓 Education
+
+**MSc in Applied Data Science for Banking and Finance**
+- Università Cattolica (Brescia, Italy) & Universidade do Minho (Braga, Portugal)
+- Sep 2022 - Apr 2025
+- Focus: Data Analytics for Investment, Quantitative Finance, Business Analytics
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**Python Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Streamlit, Seaborn, dbt, Airflow
+
+### Tools & Technologies
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Platforms**: Snowflake, Google Cloud Console, VertexAI, Tableau, PowerBI, SAS, Microsoft Office, Git
+
+### Languages
+- 🇮🇹 **Italian**: Native
+- 🇬🇧 **English**: Fluent
+- 🇪🇸 **Spanish**: Basic
+
+## 🏆 Certifications & Awards
+
+### 📜 Certifications
+- **Google Data Analytics Certificate**
+- **Bloomberg Market Concepts**
+
+### 🥇 Awards
+- **16th nationally ranked** at A.I.P.M. logic-math competition
+- **11th nationally ranked** at Kangourou competition
+- **Mensa Member**: Scored above 98th percentile on standardized IQ test (131 on Wechsler scale)
+
+## 🔬 Featured Projects
+
+### 📈 [Trading Strategy Validation](https://github.com/giovannigiofre)
+Validated research paper's trading strategy based on LS-SVM model with updated market data
+- **Tech**: Python, Machine Learning, Financial Modeling
+- **Date**: Jan 2024
+
+### ☀️ [Solar Energy Forecast](https://github.com/giovannigiofre)
+Kaggle competition: Built predictive model for solar energy production using meteorological data
+- **Accuracy**: 0.87 (0.03 behind 1st place)
+- **Tech**: Python, Scikit-learn, Data Science
+- **Date**: Dec 2023
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannigiofre&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigiofre&layout=compact&theme=radical&hide_border=true)
+
+## 💡 What I'm Working On
+
+- 🔭 Currently working on: **GenAI solutions and executive analytics platforms at Roche**
+- 🌱 Currently learning: **Advanced LLM techniques and prompt engineering**
+- 👯 Looking to collaborate on: **Open-source data science and ML projects**
+- 💬 Ask me about: **Data Science, Machine Learning, Financial Analytics, Python, GenAI/LLMs**
+
+## 📫 How to Reach Me
+
+- 📧 Email: giofregiovanni16@gmail.com
+- 📞 Phone: +39 327 588 3458
+- 💼 LinkedIn: [linkedin.com/in/giovannigiofre](https://linkedin.com/in/giovannigiofre)
+- 🐙 GitHub: [github.com/giovanni-giofre](https://github.com/giovanni-giofre)
+
+---
+
+⭐️ From [giovannigiofre](https://github.com/giovannigiofre)
