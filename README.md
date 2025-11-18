@@ -84,8 +84,8 @@ Classic Snake game implementation in Python.
 
 ## 📫 How to Reach Me
 - 📧 Email: giofregiovanni16@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/giovannigiofre](https://linkedin.com/in/giovannigiofre)
-- 🐙 GitHub: [github.com/giovanni-giofre](https://github.com/giovanni-giofre)
+- 💼 LinkedIn: [linkedin.com/in/giovannigiofre](https://linkedin.com/in/giovanni-giofre)
+- 🐙 GitHub: [github.com/giovanni-giofre](https://github.com/giovannigiofre)
 
 ---
 
