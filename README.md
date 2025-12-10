@@ -57,6 +57,8 @@
 - **Mensa Member**: Scored above 98th percentile on standardized IQ test (131 on Wechsler scale)
 
 ## 🔬 Featured Projects
+### ✈️ [Multi-agent Trip Planner](https://github.com/giovannigiofre/Navigatio.ai)
+Navigatio.ai is an AI-powered agentic trip planner that helps users plan their perfect vacation. Using Google's Gemini AI models and LangGraph orchestration, it provides real-time flight prices, hotel recommendations, and creates personalized travel itineraries.
 
 ### 💼 [Lab of Investment Project](https://github.com/ferro9902/Lab_of_Investment_project)
 Project based on recreating the strategy and model described in a research paper with different and more up‑to‑date data to test the validity of what is reported in the paper
