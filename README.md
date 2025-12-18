@@ -73,6 +73,11 @@ Kaggle competition project analyzing solar energy production using meteorologica
 Reinforcement learning implementation using Q-Network for solving the CartPole balancing problem.
 - **Tech**: Python, Reinforcement Learning, Deep Q-Networks
 
+### 𝔁 [Machine Learning from Scratch](https://github.com/giovannigiofre/si))
+From scratch implementation of main Machine Learning Algorithms using Numpy and Pandas, exercise to learn core math behind ML.
+- **Tech**: Python, Machine Learning, 
+  
+
 ### 🎵 [Songs Recommendation System](https://github.com/giovannigiofre/songs_recommendation_system)
 Recommendation system project developed for IT coding for Data Science course.
 - **Tech**: Python, Cosin Similarity, Recommendation Systems
