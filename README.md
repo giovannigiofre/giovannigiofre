@@ -54,7 +54,6 @@
 ### 🥇 Awards
 - **16th nationally ranked** at A.I.P.M. logic-math competition
 - **11th nationally ranked** at Kangourou competition
-- **Mensa Member**: Scored above 98th percentile on standardized IQ test (131 on Wechsler scale)
 
 ## 🔬 Featured Projects
 ### ✈️ [Multi-agent Trip Planner](https://github.com/giovannigiofre/Navigatio.ai)
@@ -76,7 +75,6 @@ Reinforcement learning implementation using Q-Network for solving the CartPole b
 ### 𝔁 [Machine Learning from Scratch](https://github.com/giovannigiofre/si)
 From scratch implementation of main Machine Learning Algorithms using Numpy and Pandas, exercise to learn core math behind ML.
 - **Tech**: Python, Machine Learning, 
-  
 
 ### 🎵 [Songs Recommendation System](https://github.com/giovannigiofre/songs_recommendation_system)
 Recommendation system project developed for IT coding for Data Science course.
