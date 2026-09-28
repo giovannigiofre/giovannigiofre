@@ -1,98 +1,51 @@
-# Hi there, I'm Giovanni Giofré 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-giofre/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovannigiofre)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giofregiovanni16@gmail.com)
+# Giovanni Giofrè
 
-## 💼 Professional Experience
+**AI Engineer · Production GenAI · Basel 🇨🇭**
 
-### 🔬 Roche - Global Data and Digital Solutions
-**Data Scientist** | Basel, Switzerland | Mar 2024 - Present
+I build GenAI systems together with the people who use them,<br>
+from the first discovery call to a deployed, monitored system.
 
-## 🎓 Education
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-giofre/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giofregiovanni16@gmail.com)
 
-**MSc in Applied Data Science for Banking and Finance**
-- Università Cattolica (Brescia, Italy) & Universidade do Minho (Braga, Portugal)
-- Focus: Advanced Machine Learning, Quantitative Finance, Reinforcement Learning, Business Analytics
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=flat-square&logoColor=white)
-
-**Agentic AI Frameworks**: Experience with LangChain and LangGraph for building LLM-powered applications and multi-agent systems
-
-### Tools & Platforms
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Platforms**: Snowflake, Google Cloud Console, VertexAI, Tableau, PowerBI, SAS, Microsoft Office, Git
-
-### Languages
-- 🇮🇹 **Italian**: Native
-- 🇬🇧 **English**: Fluent
-- 🇪🇸 **Spanish**: Basic
-
-## 🏆 Certifications & Awards
-
-### 📜 Certifications
-- **Google Data Analytics Certificate**
-- **Bloomberg Market Concepts**
-
-### 🥇 Awards
-- **16th nationally ranked** at A.I.P.M. logic-math competition
-- **11th nationally ranked** at Kangourou competition
-
-## 🔬 Featured Projects
-### ✈️ [Multi-agent Trip Planner](https://github.com/giovannigiofre/Navigatio.ai)
-Navigatio.ai is an AI-powered agentic trip planner that helps users plan their perfect vacation. Using Google's Gemini AI models and LangGraph orchestration, it provides real-time flight prices, hotel recommendations, and creates personalized travel itineraries.
-- **Tech**: LangGraph, Agentic, React
-
-### 💼 [Lab of Investment Project](https://github.com/ferro9902/Lab_of_Investment_project)
-Project based on recreating the strategy and model described in a research paper with different and more up‑to‑date data to test the validity of what is reported in the paper
-- **Tech**: Python, LS-SVM, Time-Series
-
-### 📈 [Energy Production and Sustainability](https://github.com/giovannigiofre/Energy_Production_and_Sustainability-Kaggle_Competition)
-Kaggle competition project analyzing solar energy production using meteorological data from solar panels in Braga, Portugal.
-- **Tech**: Python, XGBoost, Feature-Engineering
-
-### 🎮 [RL CartPole Q-Network](https://github.com/giovannigiofre/RL_Cartpole_Q-Net)
-Reinforcement learning implementation using Q-Network for solving the CartPole balancing problem.
-- **Tech**: Python, Reinforcement Learning, Deep Q-Networks
-
-### 𝔁 [Machine Learning from Scratch](https://github.com/giovannigiofre/si)
-From scratch implementation of main Machine Learning Algorithms using Numpy and Pandas, exercise to learn core math behind ML.
-- **Tech**: Python, Machine Learning, 
-
-### 🎵 [Songs Recommendation System](https://github.com/giovannigiofre/songs_recommendation_system)
-Recommendation system project developed for IT coding for Data Science course.
-- **Tech**: Python, Cosin Similarity, Recommendation Systems
-
-### 🧬 [Bioinformatics Intelligent Systems](https://github.com/giovannigiofre/si)
-Portfolio project for Intelligent Systems for Bioinformatics course.
-- **Tech**: Python, Bioinformatics, Neural Networks
-
-### 🐍 [Snake Game](https://github.com/giovannigiofre/snake_game)
-Classic Snake game implementation in Python.
-- **Tech**: Python, Game Development
-
-## 📫 How to Reach Me
-- 📧 Email: giofregiovanni16@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/giovannigiofre](https://linkedin.com/in/giovanni-giofre)
-- 🐙 GitHub: [github.com/giovanni-giofre](https://github.com/giovannigiofre)
+</div>
 
 ---
 
-⭐️ From [giovannigiofre](https://github.com/giovannigiofre)
+```python
+class Giovanni:
+    role     = "AI Engineer, forward-deployed"
+    based_in = "Basel, Switzerland"
+    now      = "LLM document intelligence & compliance agents on GCP @ ekona"
+    before   = "RAG, agentic and ML systems @ Roche (2.5 yrs)"
+    builds   = ["agentic workflows", "RAG", "document extraction", "knowledge graphs"]
+    approach = "demo → real data → real users"
+```
+
+## 🧰 Stack
+
+**AI & agents**<br>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+**Backend & data**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white)
+
+**Infra & frontend**<br>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+<div align="center">
+<sub>🇮🇹 Italian · 🇬🇧 English · 🇪🇸 Spanish (basic)</sub>
+</div>
