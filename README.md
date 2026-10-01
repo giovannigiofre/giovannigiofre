@@ -2,7 +2,7 @@
 
 # Giovanni Giofrè
 
-**AI Engineer · Production GenAI · Basel 🇨🇭**
+**AI Engineer · 🇨🇭**
 
 I build GenAI systems together with the people who use them,<br>
 from the first discovery call to a deployed, monitored system.
